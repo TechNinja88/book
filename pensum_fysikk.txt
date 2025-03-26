@@ -1,0 +1,132 @@
+Kap. 1: Enheter og målinger
+1.1: Introduksjon til fysikkfaget
+1.2: Enheter og standarder
+1.3: Omregning mellom enheter
+1.4: Dimensjonsanalyse
+1.5: Overslag og estimater
+1.6: Gjeldende siffer
+1.7: Problemløsing i fysikk
+
+Kap. 2: Vektorer
+2.1: Skalarer og vektorer
+2.2: Koordinatsystemer og vektorer på komponentform
+2.3: Vektoralgebra
+2.4: Produkt av vektorer
+
+Kap. 3: Rettlinjet bevegelse
+3.1: Posisjon, posisjonsendring og gjennomsnittsfart
+3.2: Momentanfart
+3.3: Gjennomsnitts- og momentanakselerasjon
+3.4: Bevegelse med konstant akselerasjon
+3.5: Fritt fall
+3.6: Finne fart og forflytning fra akselerasjonen
+
+Kap. 4: Krumlinjet bevegelse
+4.1: Posisjonsendring og fart som vektorer
+4.2: Akselerasjonsvektoren
+4.3: Kastebevegelse
+4.4: Sirkelbevegelse med konstant banefart
+(4.5 er av orienterende art)
+
+Kap. 5: Newtons lover
+5.1: Krefter
+5.2: Newtons 1. lov
+5.3: Newtons 2. lov
+5.4: Masse og vekt
+5.5: Newtons 3. lov
+5.6: Vanlige typer krefter
+5.7: Tegne frilegeme-diagram
+
+Kap. 6: Anvendelser av Newtons lover
+6.1: Problemløsing med Newtons lover
+6.2: Friksjon
+6.3: Sentripetalkraft
+6.4: Luftmotstand og terminalfart (unntatt: "The Calculus of Velocity-Dependent Frictional Forces")
+
+Kap. 7: Arbeid og kinetisk energi
+7.1: Arbeid
+7.2: Kinetisk energi
+7.3: Energi-arbeidteoremet
+7.4: Effekt
+
+Kap. 8: Potensiell energi og energibevaring
+8.1: Potensiell energi for et system
+8.2: Konservative og ikke-konservative krefter
+8.3: Energibevaring
+(8.4 og 8.5 er av orienterende art)
+
+Kap. 9: Bevegelsesmengde og kollisjoner
+9.1: Bevegelsesmengde
+9.2: Impuls og kollisjoner
+9.3: Bevaring av bevegelsesmengde
+9.4: Forskjellige typer kollisjoner
+
+Kap. 10: Rotasjon av stive legemer om fast akse
+10.1: Beskrivelse av rotasjonsbevegelse
+10.2: Rotasjon med konstant vinkelakselerasjon
+10.3: Sammenhengen mellom lineære- og rotasjonsvariable
+10.4: Treghetsmoment og kinetisk energi ved rotasjon
+10.5: Beregning av treghetsmoment (kun for diskrete legemer); Steiners sats/parallell akse-teoremet
+10.6: Dreiemoment
+10.7: Newtons 2. lov for rotasjon
+10.8: Arbeid og effekt ved rotasjonsbevegelse
+
+Kap. 11: Dreieimpuls (kun rullebevegelse er pensum)
+11.1: Rullebevegelse
+
+Følgende kapitler fra OpenStax bind 2 er pensum:
+
+Kap. 5: Elektrisk ladning og felt
+5.1: Elektrisk ladning
+5.2: Elektriske ledere og isolatorer
+5.3: Coulombs lov
+5.4: Elektriske felter
+5.6: Elektriske feltlinjer
+(5.7 er av orienterende art)
+
+Kap. 7: Elektrisk potensial
+7.1: Elektrisk potensiell energi
+7.2: Elektrisk potensial og potensialforskjell
+7.3: Beregninger av elektrisk potensial (til og med potensial fra system av punktladninger - dipolmoment og potensial fra kontinuerlige ladningsfordelinger er ikke pensum)
+(7.4-7.6 er av orienterende art)
+
+Kap. 8: Kondensatorer og kapasitans
+8.1: Kondensatorer og kapasitans (kun platekondensator; ikke sfærisk/sylinderformet kondensator)
+8.2: Kondensatorer i serie og parallell
+(8.3-8.5 er av orienterende art)
+
+Kap. 9: Strøm og resistans
+9.1: Elektrisk strøm
+9.2: Modell for elektrisk ledning i metaller
+9.3: Resistivitet og resistans
+9.4: Ohms lov
+9.5: Elektrisk energi og effekt
+(9.6 er av orienterende art)
+
+Kap. 10: Likestrømskretser
+10.1: Elektromotorisk kraft/spenning
+(10.2: Motstander i serie og parallell - antas kjent fra fysikk 1)
+10.3: Kirchoffs lover
+(10.4: Elektriske måleinstrumenter- antas kjent fra fysikk 1)
+10.5: RC-kretser
+(10.6 er av orienterende art)
+
+Kap. 11: Magnetiske krefter og felter
+11.1: Magnetisme
+11.2: Magnetiske felter
+11.3: Ladning i bevegelse i magnetfelt
+11.4: Magnetisk kraft på leder
+11.5: Kraft og dreiemoment på ledersløyfe
+(11.6 og 11.7 er av orienterende art)
+
+Kap. 12: Kilder til magnetfelter
+12.1: Biot-Savarts lov (kun grunnforståelse)
+12.2: Magnetisk felt rundt en tynn, rett leder
+12.3: Magnetkraft mellom parallelle ledere
+(12.4-12.7 er av orienterende art)
+
+Kap. 13: Induksjon
+13.1: Faradays induksjonslov
+13.2: Lenz' regel
+13.3: Indusert ems i ledersløyfe i bevegelse
+(13.4-13.7 er av orienterende art)
